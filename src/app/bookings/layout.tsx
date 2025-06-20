@@ -12,7 +12,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body>
-        <UserProvider defaultRole="client">
+        <UserProvider defaultRole="professional">
           {children}
         </UserProvider>
       </body>
