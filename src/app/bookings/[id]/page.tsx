@@ -191,7 +191,7 @@ export default function BookingPage() {
                   onClick={() => setBookings(bookings.filter(booking => booking.id !== b.id))}
                   className="text-xs text-red-600 hover:text-red-800"
                 >
-                  Delete
+                 
                 </button>
               )}
             </div>
