@@ -76,7 +76,7 @@ const TimeSelectionPage = () => {
   // Handle save
   const handleSave = useCallback(async () => {
     if (selectedTimes.size === 0) {
-      alert('Please select at least one time slot');
+      alert('check');
       return;
     }
 
