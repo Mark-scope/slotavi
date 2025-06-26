@@ -43,7 +43,7 @@ const Settings = () => {
         </button>
       </div>
 
-      {/* Settings Menu */}
+    
       <div className="px-4 py-8">
         <div className="space-y-6">
           {settingsItems.map((item) => {
