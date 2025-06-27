@@ -63,6 +63,9 @@ const Settings = () => {
                   </div>
                   <span className="text-lg text-gray-900 font-medium">
                     {item.title}
+                    <div>
+                    
+                    </div>
                   </span>
                 </div>
                 <ChevronRight className="w-5 h-5 text-gray-400 group-hover:text-gray-600 transition-colors" />
